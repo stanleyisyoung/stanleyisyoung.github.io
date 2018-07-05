@@ -1,3 +1,14 @@
-.body {
-  background-color: blue;
+body {
+  background-color: white;
+  border: 20px solid white;
+}
+
+.sm-icon-1 {
+  height: 32px;
+  border: 16px solid white;
+}
+
+.sm-icon-2 {
+  height: 40px;
+  border: 16px solid white;
 }

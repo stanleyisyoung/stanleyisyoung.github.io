@@ -1,14 +1,56 @@
+
+h1 {
+  text-align: center;
+}
+h2 { 
+  text-align: center;
+}
+
 body {
   background-color: white;
-  border: 20px solid white;
+  border: 10px solid white;
 }
 
-.sm-icon-1 {
-  height: 32px;
-  border: 16px solid white;
+.sm-icons {
+  width: 90%;
+  margin: 0 auto;
+}
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
 }
 
-.sm-icon-2 {
-  height: 40px;
-  border: 16px solid white;
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-github {
+  background: #212529;
+  color: white;
 }
